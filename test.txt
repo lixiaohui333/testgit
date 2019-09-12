@@ -1,7 +1,10 @@
-this is main
+this is test
 
-main = true;
+main = false;
 
-test = false;
+test = true;
 
 home = false;
+
+
+this is test
